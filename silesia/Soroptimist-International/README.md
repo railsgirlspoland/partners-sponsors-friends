@@ -17,6 +17,7 @@ Stowarzyszenie Międzynarodowa Organizacja Soroptimist International Klub w Cies
 
 Brief (EN)
 ----------
+Soroptimist International is a global organization for women with high professional and social position. Their mission is to take action to improve the lives of women and girls.
 
 
 Brief (PL)
