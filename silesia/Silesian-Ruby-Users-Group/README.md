@@ -12,7 +12,7 @@ SRUG (Silesian Ruby Users Group) is friendly and regular meetings about Ruby lan
 
 Brief (PL)
 ----------
-SRUG (Śląska Grupa Użytkowników Ruby) to przyjacielskie i cykliczne spotkania o języku Ruby i nie tylko. Celem jest wymiana wiedzy i doświadczeń programistów.
+SRUG (Śląska Grupa Użytkowników Ruby) to przyjacielskie i cykliczne spotkania dot. języka Ruby i nie tylko. Celem jest wymiana wiedzy i doświadczeń programistów.
 
 
 Links
