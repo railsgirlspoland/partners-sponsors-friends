@@ -24,4 +24,4 @@ Women in Technology to społeczność kobiet, które łączy jedna wspólna cech
 
 Links
 -----
-- [Facebook](https://www.facebook.com/WiTPoland)
+- [facebook](https://www.facebook.com/WiTPoland)

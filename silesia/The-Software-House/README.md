@@ -18,5 +18,5 @@ The Software House to zespół świetnych developerów pracujących nad wspania�
 
 Links
 -----
-[facebook](https://www.facebook.com/TheSoftwareHousePL)
-[www](http://www.thesoftwarehouse.pl/en)
+- [facebook](https://www.facebook.com/TheSoftwareHousePL)
+- [www](http://www.thesoftwarehouse.pl/en)
