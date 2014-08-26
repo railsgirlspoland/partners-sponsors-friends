@@ -17,4 +17,5 @@ Trix.pl jest zespołem doświadczonych inżynierów pracujących zdalnie ze star
 
 Links
 -----
-[github](https://github.com/trix)
+- [github](https://github.com/trix)
+- [www](http://www.trix.pl/)
