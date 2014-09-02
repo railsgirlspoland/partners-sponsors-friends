@@ -14,5 +14,6 @@ Mikstura IT jest fundacją, która skupia społeczność internetową i mobilną
 Links
 -----
 - [facebook](https://www.facebook.com/MiksturaIT)
+- [twitter](https://twitter.com/MiksturaIT)
 - [github](https://github.com/miksturait)
 - [www](http://mikstura.it/)
