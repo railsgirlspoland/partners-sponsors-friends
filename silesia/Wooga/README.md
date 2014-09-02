@@ -19,5 +19,6 @@ Utworzona w roku 2009, Wooga stała się jednym z najbardziej popularnych produc
 Links
 -----
 - [facebook](https://www.facebook.com/wooga)
+- [twitter](https://twitter.com/wooga)
 - [github](https://github.com/wooga)
 - [www](http://www.wooga.com/)
