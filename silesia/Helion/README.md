@@ -18,4 +18,5 @@ Helion to wydawnictwo specjalistyczne publikujące książki związane z technol
 Links
 -----
 - [facebook](https://www.facebook.com/HelionPL)
+- [twitter](https://twitter.com/HelionPL)
 - [www](http://helion.pl/)
