@@ -17,4 +17,5 @@ Links
 - [facebook](https://www.facebook.com/hack4goodKrK)
 - [twitter](https://twitter.com/hack4goodkrk)
 - [google+](https://plus.google.com/+Hack4goodPl)
+- [vimeo](http://vimeo.com/86457984)
 - [www](http://hack4good.pl/)
