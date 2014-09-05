@@ -24,4 +24,5 @@ Geek Girls Carrots to społeczności kobiet kochających nowe technologie. Misj�
 Links
 -----
 - [facebook](https://www.facebook.com/geekgirlscarrots)
+- [twitter](https://twitter.com/ggCarrots)
 - [www](http://geekgirlscarrots.pl/)
