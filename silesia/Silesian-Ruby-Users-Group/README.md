@@ -17,5 +17,6 @@ SRUG (Śląska Grupa Użytkowników Ruby) to przyjacielskie i cykliczne spotkani
 
 Links
 -----
+- [twitter](https://twitter.com/srugpl)
 - [github](https://github.com/SRUG)
 - [www](http://srug.pl/)
