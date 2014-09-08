@@ -7,6 +7,7 @@ Description
 
 Brief (EN)
 ----------
+WebMastah.pl is a place to exchange views and experiences. It is independent of the programming language and number of hours over the code.
 
 
 Brief (PL)
