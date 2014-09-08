@@ -10,10 +10,12 @@ By wziąć udział w SmartDevConie wystarczy zarejestrować się na stronie wyda
 
 Brief (EN)
 ----------
+The conference SmartDevCon is orientated at companies and specialists connected with modern device solutions.
 
 
 Brief (PL)
 ----------
+Konferencja SmartDevCon jest wydarzeniem skierowanym do osób związanych z rozwiązaniami mobilnymi i wbudowanymi.
 
 
 Links
