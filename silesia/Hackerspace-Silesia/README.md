@@ -18,5 +18,6 @@ Hackerspace jest to społeczność kreatywnych ludzi z różnych obszarów zaint
 Links
 -----
 - [facebook](https://www.facebook.com/HackerspaceSilesia)
+- [twitter](https://twitter.com/hs_silesia)
 - [github](https://github.com/hackerspace-silesia)
 - [www](http://silesia.hackerspace.pl/)

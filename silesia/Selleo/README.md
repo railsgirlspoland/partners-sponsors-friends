@@ -27,5 +27,6 @@ Brief (PL)
 Links
 -----
 - [facebook](https://www.facebook.com/Selleo.Web.Mobile.Developers)
+- [twitter](https://twitter.com/selleo)
 - [github](https://github.com/selleo)
 - [www](http://selleo.com/)
