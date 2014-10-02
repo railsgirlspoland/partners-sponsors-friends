@@ -3,8 +3,7 @@ Women In Technology
 
 Description
 -----------
-Women In Technology is a community of women who share one common feature - Technology. The aim of the group is to build the opinion that a woman can be passionate and prominent expert in her field. Women In Technology is an independent Polish group, which was founded in 2009. It brings together women sharing similar technological and informatics interests, it helps them achieve their goals, organizes workshops and trainings increasing creativity. There are more than 130 active participants and dozens of free listeners, including men.
-Women In Technology breaks stereotypes, it is also an independent group valued primarily for the knowledge of its participants.
+Women In Technology is a community of women who share one common feature - Technology. The aim of the group is to build the opinion that a woman can be passionate and prominent expert in her field. Women In Technology is an independent Polish group, which was founded in 2009. It brings together women sharing similar technological and informatics interests, it helps them achieve their goals, organizes workshops and trainings increasing creativity. There are more than 130 active participants and dozens of free listeners, including men. Women In Technology breaks stereotypes, it is also an independent group valued primarily for the knowledge of its participants.
 
 
 Description (PL)
@@ -25,4 +24,5 @@ Women in Technology to społeczność kobiet, które łączy jedna wspólna cech
 Links
 -----
 - [facebook](https://www.facebook.com/WiTPoland)
+- [twitter](https://twitter.com/WiTPoland)
 - [www](http://wit.insys.pl/)
