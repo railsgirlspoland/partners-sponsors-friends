@@ -3,6 +3,7 @@ Helion
 
 Description
 -----------
+Helion (@HelionPL) is a specialist publishing house that publishes books related to technology, addressed to all computer users, regardless of the degree of advancement.
 
 
 Brief (EN)
