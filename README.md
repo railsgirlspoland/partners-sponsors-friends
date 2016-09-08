@@ -1,2 +1,2 @@
-Rails Girls Silesia - Partners / Sponsors / Friends
-===================================================
+Rails Girls - Partners / Sponsors / Friends
+===========================================
